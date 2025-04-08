@@ -47,7 +47,7 @@ modules:
       - type: file
         path: com.alibabainc.dingtalk.desktop
       - type: file
-        path: logo.png
+        path: com.alibabainc.dingtalk.png
       - type: file
         path: Elevator.sh
       - type: file
